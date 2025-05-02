@@ -1,6 +1,8 @@
 # ZhuLupei_code
 朱露培老师的程序集
 
+朱老师讲cap课视频：https://m.koushare.com/live/details/9410
+
 ## fk教程
 https://seismo-learn.org/software/fk/
 
