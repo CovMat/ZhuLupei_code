@@ -15,7 +15,7 @@ https://seismo-learn.org/software/gcap3d/
 https://blog.seisman.info/hk-install/
 
 ## gcap教程
-http://seiswave.cn/oh-my-cap/
+https://github.com/wangliang1989/oh-my-cap
 
 我推荐使用oh-my-cap代替朱老师原版的gcap，这个改版比较好用。注意原始的oh-my-cap只能运行在macOS苹果系统，在linux中有点bug。我上传的 oh-my-cap-patch-1 修改了这些bug，在linux中可以正常使用。
 
